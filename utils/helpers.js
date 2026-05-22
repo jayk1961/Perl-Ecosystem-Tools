@@ -1,2 +1,2 @@
-// Update 5120 for utils/helpers.js
-// Random hash: 85539
+// Update 5130 for utils/helpers.js
+// Random hash: 38414
