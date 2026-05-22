@@ -1,2 +1,2 @@
-// Update 1260 for docs/index.md
-// Random hash: 56026
+// Update 1272 for docs/index.md
+// Random hash: 47466
