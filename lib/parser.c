@@ -1,2 +1,2 @@
-// Update 2020 for lib/parser.c
-// Random hash: 32692
+// Update 2022 for lib/parser.c
+// Random hash: 87578
